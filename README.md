@@ -4,6 +4,7 @@ My alive 🌱 projects:
 
 - [Budget](https://github.com/Marcus-Rise/budget)
 - [Budget Api](https://github.com/Marcus-Rise/budget-api)
+- [React theme](https://github.com/Marcus-Rise/react-theme)
 - [Knitting blog](https://github.com/Marcus-Rise/knitting-blog)
 - [My site](https://github.com/Marcus-Rise/My-Site)
 
